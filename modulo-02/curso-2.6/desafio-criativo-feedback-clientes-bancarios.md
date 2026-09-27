@@ -1,6 +1,12 @@
 # Desafio Criativo — Extraindo Insights do Feedback de Clientes Bancários
 
-**Case:** Jornada de Crédito Digital Bancário
+**Programa:** DIO Bootcamp Bradesco — GenAI, Dados & Cyber  
+**Módulo:** 02 — Fundamentos de Dados: Excel, SQL e Business Intelligence  
+**Curso:** 2.6 — Extraindo Insights do Feedback de Clientes Bancários  
+**Classificação:** MATERIAL DIDÁTICO FICTÍCIO/SINTÉTICO DE TREINO  
+**Dados pessoais reais no repositório:** NÃO  
+**Case:** Jornada de Crédito Digital Bancário  
+**Auditoria documental:** 26/09/2026 — o prompt substantivo foi preservado sem alteração.
 
 ## Prompt final
 
