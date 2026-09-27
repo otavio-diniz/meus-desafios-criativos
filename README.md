@@ -48,3 +48,11 @@ meus-desafios-criativos/
 O material original de Otávio Diniz está sujeito à política de direitos descrita em [`LICENSE`](LICENSE). Materiais, marcas, nomes de cursos e conteúdos de terceiros não são relicenciados por este repositório. Consulte também [`NOTICE.md`](NOTICE.md).
 
 A publicação no GitHub não constitui, por si só, evidência de submissão, nota ou certificação institucional.
+
+## Orientação acadêmica e convite a feedback
+
+O desafio **2.6 — Extraindo Insights do Feedback de Clientes Bancários** integra o **DIO Bootcamp Bradesco — GenAI, Dados & Cyber**. A orientação associada ao desafio é creditada a **Felipe Silva Aguiar (`@felipeAguiarCode`)**, e a plataforma/organização educacional é a **`@digitalinnovationone`**.
+
+Agradeço pela proposta e pelas orientações que serviram de ponto de partida. Este repositório contém uma implementação autoral e sintética, com controles adicionais de privacidade, rastreabilidade e separação entre fatos e hipóteses. Se o instrutor, a DIO ou profissionais ligados ao programa encontrarem o projeto, **feedback sobre clareza do prompt, governança da análise e utilidade dos insights é bem-vindo**.
+
+As menções registram origem acadêmica e reconhecimento e **não implicam endosso, avaliação, vínculo profissional ou aprovação** por parte do instrutor, da DIO ou do Bradesco.
