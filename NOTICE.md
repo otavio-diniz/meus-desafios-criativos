@@ -2,13 +2,16 @@
 
 This repository is an independent educational portfolio collection authored by Otávio Diniz.
 
-The currently published artifact was produced in the context of the **DIO Bootcamp Bradesco — GenAI, Dados & Cyber**, Module 02 — Fundamentos de Dados: Excel, SQL e Business Intelligence, course 2.6 — Extraindo Insights do Feedback de Clientes Bancários.
+The repository now contains two independent educational exercises:
 
-The repository is not an official publication of DIO or Bradesco, and no endorsement by those organizations is implied.
+- **DIO Bootcamp Bradesco — GenAI, Dados & Cyber**, Module 02 — Fundamentos de Dados: Excel, SQL e Business Intelligence, course 2.6 — Extraindo Insights do Feedback de Clientes Bancários: fictional customer-feedback analysis prompt.
+- **Santander 2026 — Automação com n8n (DIO)**, Module 03 — Automatização de Processos com n8n, Desafio Criativo: Planejando Automações com N8N Usando Apenas Bons Prompts: a conceptual workflow-planning prompt, with no n8n implementation or execution.
+
+The repository is not an official publication of DIO, Bradesco, Santander or n8n. Mention of these names implies no affiliation, endorsement, institutional review, approval or certification.
 
 ## Data and scope
 
-The banking-feedback scenario is explicitly **fictional/synthetic educational material**. No real customer dataset, personal data, credentials or confidential banking information is included in the repository.
+Both exercises are **fictional/synthetic educational material**. The n8n challenge contains a public-safe conceptual scenario and does not expose actual private academic-drive paths, File IDs, credentials or data. No real customer dataset, personal data or confidential information is included in the exercises.
 
 ## Rights of third parties
 
