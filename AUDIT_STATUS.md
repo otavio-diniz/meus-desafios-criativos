@@ -11,7 +11,7 @@
 
 `EVALUATOR_READINESS=PASS_PARA_O_ARTEFATO_PUBLICADO`
 
-O repositório contém um único desafio criativo publicado. A auditoria confirma que ele pertence ao escopo do Bootcamp Bradesco e está classificado como **MATERIAL DIDÁTICO FICTÍCIO/SINTÉTICO DE TREINO**, não como avaliação formal.
+**Escopo histórico:** esta matriz verifica exclusivamente o desafio Bradesco na baseline de 26/09/2026. Naquela data, o repositório continha apenas esse desafio criativo. O exercício posterior **Santander 2026 / DIO — planejamento de automações com n8n** não integra a matriz abaixo; nenhum PASS daqui comprova execução, avaliação ou submissão do novo exercício. O desafio Bradesco auditado está classificado como **MATERIAL DIDÁTICO FICTÍCIO/SINTÉTICO DE TREINO**, não como avaliação formal.
 
 ## Matriz de aderência
 
