@@ -18,9 +18,9 @@ A coleção não deve ser lida como um único produto de software. O objetivo é
 
 ## Estado atual
 
-Atualmente há **um desafio criativo publicado** na coleção:
+Atualmente há **dois desafios criativos de treino publicados**, organizados por programa e módulo:
 
-### Módulo 02 — Fundamentos de Dados: Excel, SQL e Business Intelligence
+### DIO Bootcamp Bradesco — Módulo 02: Fundamentos de Dados
 
 **Programa:** DIO Bootcamp Bradesco — GenAI, Dados & Cyber  
 **Curso:** 2.6 — Extraindo Insights do Feedback de Clientes Bancários  
@@ -31,9 +31,19 @@ Artefato principal:
 
 - [`modulo-02/curso-2.6/desafio-criativo-feedback-clientes-bancarios.md`](modulo-02/curso-2.6/desafio-criativo-feedback-clientes-bancarios.md)
 
-Consulte também [`AUDIT_STATUS.md`](AUDIT_STATUS.md) para a matriz de aderência e o baseline auditado.
+### Santander 2026 / DIO — Módulo 03: Automatização de Processos com n8n
 
-## O que o desafio publicado demonstra
+**Desafio:** Planejando Automações com N8N Usando Apenas Bons Prompts  
+**Tipo:** desafio criativo — planejamento por prompt, **sem workflow implementado ou executado**.  
+**Cenário sintético:** triagem consultiva de materiais acadêmicos, com relatório e revisão humana antes de qualquer alteração.
+
+Artefato principal:
+
+- [`santander-2026/n8n/modulo-03/desafio-criativo-planejando-automacoes-prompt.md`](santander-2026/n8n/modulo-03/desafio-criativo-planejando-automacoes-prompt.md)
+
+**Nota de escopo:** [`AUDIT_STATUS.md`](AUDIT_STATUS.md) documenta somente a auditoria histórica do desafio Bradesco, não a aprovação do exercício n8n nem a submissão na DIO.
+
+## O que o desafio Bradesco demonstra
 
 O exercício estrutura um prompt para transformar feedbacks de uma jornada fictícia de crédito digital em insights rastreáveis, com controles de:
 
@@ -49,11 +59,15 @@ O exercício estrutura um prompt para transformar feedbacks de uma jornada fict�
 - revisão humana especializada quando necessária;
 - decisões de crédito preservadas fora da autonomia do exercício.
 
+## O que o desafio Santander n8n demonstra
+
+O novo exercício demonstra a construção de um **prompt estruturado** para desenhar um workflow no n8n: gatilho, consulta de metadados autorizados, identificação de duplicidades, filtros, organização de dados, relatório e aprovação humana. É planejamento didático — **não há arquivo de workflow importável, execução ou validação de integração**.
+
 ## Como navegar
 
-1. Leia este README para entender a finalidade da coleção.
-2. Consulte [`AUDIT_STATUS.md`](AUDIT_STATUS.md) para o estado de auditoria.
-3. Acesse o artefato publicado em [`modulo-02/curso-2.6/`](modulo-02/curso-2.6/).
+1. Leia este README para conhecer os exercícios e seus respectivos programas.
+2. Para o **Santander n8n**, abra o [prompt final de planejamento](santander-2026/n8n/modulo-03/desafio-criativo-planejando-automacoes-prompt.md).
+3. Para o **Bradesco**, consulte [o desafio do Módulo 02](modulo-02/curso-2.6/desafio-criativo-feedback-clientes-bancarios.md). Seu baseline auditado historicamente permanece em [`AUDIT_STATUS.md`](AUDIT_STATUS.md).
 4. Consulte [`NOTICE.md`](NOTICE.md) e [`LICENSE`](LICENSE) para proveniência e direitos.
 
 ## Estrutura
@@ -64,9 +78,13 @@ meus-desafios-criativos/
 ├── AUDIT_STATUS.md
 ├── LICENSE
 ├── NOTICE.md
-└── modulo-02/
-    └── curso-2.6/
-        └── desafio-criativo-feedback-clientes-bancarios.md
+├── modulo-02/
+│   └── curso-2.6/
+│       └── desafio-criativo-feedback-clientes-bancarios.md
+└── santander-2026/
+    └── n8n/
+        └── modulo-03/
+            └── desafio-criativo-planejando-automacoes-prompt.md
 ```
 
 ## Limites e integridade
@@ -79,6 +97,8 @@ meus-desafios-criativos/
 
 ## Contexto acadêmico e créditos
 
+### DIO Bootcamp Bradesco
+
 O desafio **2.6 — Extraindo Insights do Feedback de Clientes Bancários** integra o **DIO Bootcamp Bradesco — GenAI, Dados & Cyber**.
 
 A orientação associada ao desafio é creditada a **Felipe Silva Aguiar (`@felipeAguiarCode`)**, e a plataforma/organização educacional é a **`@digitalinnovationone`**.
@@ -86,6 +106,10 @@ A orientação associada ao desafio é creditada a **Felipe Silva Aguiar (`@feli
 Agradeço pela proposta e pelas orientações que serviram de ponto de partida. Este repositório contém uma implementação autoral e sintética, com controles adicionais de privacidade, rastreabilidade e separação entre fatos e hipóteses.
 
 Feedback sobre clareza do prompt, governança da análise e utilidade dos insights é bem-vindo. As menções registram origem acadêmica e reconhecimento e **não implicam endosso, avaliação, certificação, vínculo profissional ou aprovação** por parte do instrutor, da DIO ou do Bradesco.
+
+### Santander 2026 — Automação com n8n
+
+O exercício **Planejando Automações com N8N Usando Apenas Bons Prompts** integra o contexto de treinamento Santander 2026 / DIO. O artefato publicado apresenta elaboração autoral assistida por IA e revista pelo autor; não reproduz o material original do curso. Referir-se ao programa não implica endosso, avaliação nem homologação pela DIO ou pelo Santander.
 
 ## Autoria, direitos e proveniência
 
